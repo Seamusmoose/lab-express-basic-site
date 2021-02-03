@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    height: 100vh;
+    width: 100vw;
+    flex: display;
+    flex-direction: column;
+    -ms-flex-item-align: center;
+    text-align: center;
+    
+
+    
+}
+
+
+.about {
+    color: white;
+}
+
+
+.image {
+    height: 50vh;
+    width: 50vw;
+    flex: display;
+    flex-direction: column;
+    -ms-flex-item-align: center;
+    
+}
+
+/* .title {
+    color: red;
+} */
+
+h1 {
+    color: lightcoral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+}
